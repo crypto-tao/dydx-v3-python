@@ -1,9 +1,6 @@
-<p align="center"><img src="https://s3.amazonaws.com/dydx-assets/dydx_logo_black.svg" width="256" /></p>
+<p align="center"><img src="https://dydx.exchange/flat.svg" width="256" /></p>
 
 <div align="center">
-  <a href="https://circleci.com/gh/dydxprotocol/workflows/dydx-v3-python/tree/master">
-    <img src="https://img.shields.io/circleci/project/github/dydxprotocol/dydx-v3-python.svg?token=089b73e1b03736647446c0d80057bc8609790e2d" alt='CI' />
-  </a>
   <a href='https://pypi.org/project/dydx-v3-python'>
     <img src='https://img.shields.io/pypi/v/dydx-v3-python.svg' alt='PyPI'/>
   </a>
@@ -15,7 +12,7 @@
 
 Python client for dYdX (v3 API).
 
-The library is currently tested against Python versions 2.7, 3.4, 3.5, and 3.6
+The library is currently tested against Python versions 2.7, 3.4, 3.5, 3.6, 3.9, and 3.11.
 
 ## Installation
 
